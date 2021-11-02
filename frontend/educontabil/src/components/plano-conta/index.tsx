@@ -1,0 +1,1 @@
+export { TipoConta } from './tipo-conta'

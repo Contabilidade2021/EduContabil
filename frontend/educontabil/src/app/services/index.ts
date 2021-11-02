@@ -1,0 +1,1 @@
+export { useTipoContaService } from './plano-contas.service'
